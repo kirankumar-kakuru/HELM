@@ -1,5 +1,5 @@
 deployment:
   changeCause: "installing latest version"
-  imageVersion: "latest"
+  imageVersion: "1.29.8"
 service:
   type: LoadBalancer
